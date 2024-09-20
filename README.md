@@ -1,6 +1,6 @@
-# software
-some useful program
-## Sequence_Quest:查找一个碱基文件中是否存在目标文件中已有的碱基序列。
+# software 小程序
+
+## Sequence_Quest:筛选碱基-->查找一个碱基文件中是否存在目标文件中已有的碱基序列。
   parmas说明
   1. Target File: 已有的碱基序列文件
   2. 每组行数：文件内容成规律性，按多少行一组循环
